@@ -1,0 +1,3 @@
+1.a pool of threads, instead of the unlimited supply
+2.mechanism for one-died-kill-all
+3.scheduled job (delayed; as opposed to just instant runs)
