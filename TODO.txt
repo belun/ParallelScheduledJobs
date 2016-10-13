@@ -1,2 +1,2 @@
-1.mechanism for one-died-kill-all
+1.(started) mechanism for one-died-kill-all
 2.scheduled job (delayed; as opposed to just instant runs)
