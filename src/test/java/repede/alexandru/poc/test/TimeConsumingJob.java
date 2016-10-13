@@ -1,10 +1,10 @@
-package repede.alexandru.poc;
+package repede.alexandru.poc.test;
 
 import org.apache.commons.lang3.time.StopWatch;
+import repede.alexandru.poc.RunnableJob;
 
 
-
-public class TimeConsumingJob implements IJob {
+public class TimeConsumingJob extends RunnableJob {
 
     private final int delay;
     private final Runnable after;

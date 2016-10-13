@@ -1,6 +1,8 @@
-package repede.alexandru.poc;
+package repede.alexandru.poc.test;
 
-public class PassThroughJob implements IJob {
+import repede.alexandru.poc.RunnableJob;
+
+public class PassThroughJob extends RunnableJob {
 
 
     private final Runnable after;
